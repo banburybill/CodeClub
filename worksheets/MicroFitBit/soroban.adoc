@@ -1,4 +1,4 @@
-= MicroFitBit, part 1.5
+= MicroFitBit, part 2
 
 In the last project, we made a Micro:Bit count the number of times we pressed button A.
 We showed the current count by flashing the LEDs.
@@ -88,3 +88,25 @@ image::soroban-row.jpg[Showing LEDs on one row]
 Finally, here's the whole `forever` loop. Try it and see if it works!
 
 image::display-loop-soroban.jpg[Display loop]
+
+== Counting steps
+
+There's a simple way we can count steps.
+We can asked the Micro:Bit to tell us if it thinks it has been shaken.
+Like this:
+
+image::on-shake.jpg[Step on shake]
+
+And there we are - we now have a MicroFitBit.
+Try adding a battery pack and wearing it on different parts of your body.
+How well does it count steps?
+
+== Ideas
+
+Here's some things you could think about adding:
+
+* A count reset - so if you press button B have the step count reset to 0?
+* Instead of the count display, show a large tick or something when they have
+walked 10,000 steps.
+
+Can you think of other useful things you could add?
