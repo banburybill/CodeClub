@@ -1,6 +1,6 @@
-= MicroFitBit, part 2
+= MicroFitBit, part 3
 
-In the last project, we made a Micro:Bit count the number of times we pressed button A.
+At the start of this project, we made a Micro:Bit count the number of times we pressed button A.
 We showed the current count by flashing the LEDs.
 Since we have a grid of 5x5 LEDs, we use each row of the LEDs to show the count
 of the units, tens, hundreds, thousands and tens of thousands.
@@ -91,8 +91,9 @@ image::display-loop-soroban.jpg[Display loop]
 
 == Counting steps
 
-There's a simple way we can count steps.
-We can asked the Micro:Bit to tell us if it thinks it has been shaken.
+Let's count the steps using the shaking method from the last part of the project,
+because it's nice and simple.
+We need to add to the step count when the Micro:Bit thinks it's been shaken.
 Like this:
 
 image::on-shake.jpg[Step on shake]
