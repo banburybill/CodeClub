@@ -32,7 +32,7 @@ Then we'll change `x` and `y` depending on what the accelerometer tells us.
 Enter this program, and then play with it.
 Can you make the light go to one side and then back to the middle?
 
-image::simple.png[Simple Wobbly]
+image::simple.png[Simple Wobbly,600]
 
 When I try this program, I find it very difficult - in fact nearly impossible - to
 bring the light back to the middle.
@@ -44,4 +44,4 @@ Here's another version of the program.
 This one tries to make it movement less sensitive.
 Can you get the light back to the middle with this one?
 
-image::slower.png[Slower Wobbly]
+image::slower.png[Slower Wobbly,600]
