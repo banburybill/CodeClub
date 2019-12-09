@@ -1,0 +1,3 @@
+[submodule "presentations/Tamagotchi/reveal.js"]
+	path = presentations/Tamagotchi/reveal.js
+	url = https://github.com/hakimel/reveal.js.git

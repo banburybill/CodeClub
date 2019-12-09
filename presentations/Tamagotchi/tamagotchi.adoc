@@ -1,0 +1,110 @@
+= Micro:Bit Tamagotchi
+:backend: revealjs
+:revealjs_theme: black
+:revealjs_controls: false
+:revealjs_slideNumber: true
+:revealjs_showSlideNumber: speaker
+:imagesdir: images
+:figure-caption!:
+:customcss: minspace.css
+
+Jim Hague +
+http://www.sinodun.com[Sinodun Internet Technologies] +
+mailto:jim.hague@acm.org[jim.hague@acm.org] +
+https://twitter.com/banbury_bill[@banbury_bill] +
+https://github.com/banburybill
+
+[%notitle]
+== A Tamagotchi
+
+image::tamagotchi.jpg[Tamagotchi,550]
+
+[.notes]
+--
+* One of biggest toy fads of late 1990s/early 2000s.
+* Invented in Japan 1997.
+* Little alien egg lands on Earth; you have to help it grow and develop.
+* A digital pet.
+--
+
+== Aki Maita
+
+image::tamamother.jpg[Tamamother,350]
+
+[.notes]
+--
+* The inventor 'Tama Mother'.
+--
+
+[%notitle]
+== Create Health counter
+
+image::make_variable.png[Health, 550]
+
+[%notitle]
+== Activate Health counter
+
+image::health.png[Health, 550]
+
+
+[%notitle]
+== Take care of your pet
+
+image::give-health.png[Health, 550]
+
+
+[%notitle]
+== Show Health
+
+image:healthy.png[Healthy] image:like_snack.png[Like snack] image:hungry.png[Hungry] image:starving.png[Starving] image:dead.png[Dead]
+
+[.notes]
+--
+* Imagine these being on a number line.
+--
+
+[%notitle]
+== Logic
+
+image::logic.png[Logic, 300]
+
+[%notitle]
+== Conditionals
+
+image::conditionals.png[Comparisons, 350]
+
+[%notitle]
+== Comparisons
+
+image::comparisons.png[Comparisons, 550]
+
+== George Boole (1815-1854)
+
+image::georgeboole.jpg[George Boole, 500]
+
+[%notitle]
+== Booleans
+
+image::booleans.png[Booleans, 450]
+
+[%notitle]
+== Showing health
+
+image::show_health_1.png[Show health part 1, 300]
+
+[%notitle]
+== Showing health 2
+
+image::show_health_2.png[Show health part 2, 300]
+
+[%notitle]
+== Wiggling eyes
+
+[cols="2*"]
+|===
+
+a| image:healthy.png[Healthy]
+
+a| image:wiggle_eyes.png[Wiggle eyes, 350]
+
+|===
