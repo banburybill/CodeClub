@@ -1,0 +1,3 @@
+This project uses a Motor:Bit, a little car controlled by a Micro:Bit.
+You can find out more about Motor:Bit at
+https://www.elecfreaks.com/learn-en/microbitKit/motor_bit_smart_car/index.html.
